@@ -1,0 +1,52 @@
+                                <div class="card">
+                                    <div class="card-decoration">
+                                        <div class="icon">
+                                            <img src="img/ads-1.png" alt="icon">
+                                        </div>
+                                    </div>
+                                    
+                                    <!-- <div class="desc-wrapper">
+                                        <div class="description">
+                                            Berlayar dengan kapal
+                                        </div>
+                                        <div class="remark">140 Jalur</div>
+                                    </div> -->
+                                </div>
+                                <div class="card">
+                                    <div class="card-decoration">
+                                        <div class="icon">
+                                            <img src="img/ads-2.png" alt="icon">
+                                        </div>
+                                    </div>
+                                    <div class="desc-wrapper">
+                                        <div class="description">
+                                            Staycation
+                                        </div>
+                                        <div class="remark">1768 Paket</div>
+                                    </div>
+                                    </div>
+                                <div class="card">
+                                    <div class="card-decoration">
+                                        <div class="icon">
+                                            <img src="img/ads-3.png" alt="icon">
+                                        </div>
+                                    </div>
+                                    <div class="desc-wrapper">
+                                        <div class="description">
+                                            Wisata Lokal
+                                        </div>
+                                        <div class="remark">120 Paket</div>
+                                    </div>
+                                    </div>
+                                <div class="card">
+                                    <div class="card-decoration">
+                                        <div class="icon">
+                                            <img src="img/ads-4.png" alt="icon">
+                                        </div>
+                                    </div>
+                                    <div class="desc-wrapper">
+                                        <div class="description">
+                                        Tur Camping
+                                    </div>
+                                    <div class="remark">257 Paket</div></div>
+                                </div>
